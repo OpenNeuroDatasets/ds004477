@@ -10,5 +10,8 @@
         "Riccardo Poli"
     ],
     "Acknowledgements": "This research was supported by the Defence Science and Technology Laboratory (Dstl) on behalf of the UK Ministry of Defence (MOD) via funding from US/UK DoD Bilateral Academic Research Initiative (BARI). ",
-    "License": "CC0"
+    "License": "CC0",
+    "EthicsApprovals": [
+        "The study complied at all times with the Declaration of Helsinki ethical guidelines for research involving human subjects; formal ethical approval was granted by the Ministry of Defence Research Ethics Committee MoDREC - Application No: 983/MoDREC/19 first approved on 5th September 2019, with revisions (ver. 3) approved on the 3rd of June 2021."
+    ]
 }
