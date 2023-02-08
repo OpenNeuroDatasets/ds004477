@@ -1,0 +1,8 @@
+{
+    "Name": "PES",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Tasos Papastylianou", "Rodrigo Ramele", "Luca Citi", "Caterina Cinel", "Riccardo Poli"
+    ]
+}
