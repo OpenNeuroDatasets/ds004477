@@ -3,6 +3,12 @@
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
-        "Tasos Papastylianou", "Rodrigo Ramele", "Luca Citi", "Caterina Cinel", "Riccardo Poli"
-    ]
+        "Tasos Papastylianou",
+        "Rodrigo Ramele",
+        "Luca Citi",
+        "Caterina Cinel",
+        "Riccardo Poli"
+    ],
+    "Acknowledgements": "This research was supported by the Defence Science and Technology Laboratory (Dstl) on behalf of the UK Ministry of Defence (MOD) via funding from US/UK DoD Bilateral Academic Research Initiative (BARI). ",
+    "License": "CC0"
 }
